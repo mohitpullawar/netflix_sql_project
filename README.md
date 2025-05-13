@@ -41,6 +41,8 @@ CREATE TABLE netflix
 ## Business Problems and Solutions
 
 ### 1. Count the Number of Movies vs TV Shows
+# syedhon9@gmail.com my answer specially my thinking I'm just showing 
+97% Audience prefer movies over tv shows on Netflix 
 
 ```sql
 SELECT 
